@@ -1,0 +1,18 @@
+[submodule "e-school-service-user-oauth2-db"]
+	path = e-school-service-user-oauth2-db
+	url = https://github.com/WeisonWei/e-school-service-user-oauth2-db.git
+[submodule "e-school-service-user-oauth2-mem"]
+	path = e-school-service-user-oauth2-mem
+	url = https://github.com/WeisonWei/e-school-service-user-oauth2-mem.git
+[submodule "e-school-service-user-oauth2-jwt"]
+	path = e-school-service-user-oauth2-jwt
+	url = https://github.com/WeisonWei/e-school-service-user-oauth2-jwt.git
+[submodule "e-school-service-user-oauth2-rbac"]
+	path = e-school-service-user-oauth2-rbac
+	url = https://github.com/WeisonWei/e-school-service-user-oauth2-rbac.git
+[submodule "e-school-service-user-oauth2-resource"]
+	path = e-school-service-user-oauth2-resource
+	url = https://github.com/WeisonWei/e-school-service-user-oauth2-resource.git
+[submodule "e-school-service-user-session"]
+	path = e-school-service-user-session
+	url = https://github.com/WeisonWei/e-school-service-user-session.git

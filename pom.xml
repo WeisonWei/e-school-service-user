@@ -17,13 +17,12 @@
     <description>Parent project of e-school-service-user</description>
 
     <modules>
-        <!--
         <module>e-school-service-user-oauth2-db</module>
         <module>e-school-service-user-oauth2-jwt</module>
-        <module>e-school-service-user-oauth2-men</module>
+        <module>e-school-service-user-oauth2-mem</module>
         <module>e-school-service-user-oauth2-rbac</module>
         <module>e-school-service-user-oauth2-resource</module>
-        -->
+        <module>e-school-service-user-session</module>
     </modules>
 
     <profiles>
